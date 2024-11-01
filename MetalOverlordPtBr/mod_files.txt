@@ -1,2 +1,3 @@
+delete raw/sound/resident_sound/bgm_miller.awb
 add raw/sound/resident_sound/bgm_miller.acb
 add mod.ini
