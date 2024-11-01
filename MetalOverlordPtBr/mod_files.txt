@@ -1,2 +1,2 @@
-add /raw/sound/resident_sound/bgm_miller.acb
+add raw/sound/resident_sound/bgm_miller.acb
 add mod.ini
